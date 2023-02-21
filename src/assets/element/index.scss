@@ -1,0 +1,28 @@
+@forward "element-plus/theme-chalk/src/common/var.scss" with (
+  $colors: (
+    "primary": (
+      "base": #3b5cff,
+      "dark-2": #0e40cb,
+      "light-3": #4080ff,
+      "light-5": #1c406b,
+    ),
+    "success": (
+      "base": #00b42a,
+      "dark-2": #009a29,
+      "light-3": #23c343,
+      "light-5": #004811,
+    ),
+    "warning": (
+      "base": #ff7d00,
+      "dark-2": #d25f00,
+      "light-3": #ff9a2e,
+      "light-5": #663200,
+    ),
+    "danger": (
+      "base": #f53f3f,
+      "dark-2": #cb2634,
+      "light-3": #f76560,
+      "light-5": #621919,
+    ),
+  )
+);
